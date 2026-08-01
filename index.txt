@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Official Portal | Musk Enterprise Placement Network</title>
+    <script src="https://tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cloudflare.com">
+</head>
+<body class="bg-slate-900 text-slate-100 font-sans antialiased selection:bg-cyan-500 selection:text-white">
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 bg-slate-900/90 backdrop-blur-md border-b border-slate-800">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+            <div class="flex items-center space-x-2">
+                <i class="fa-solid font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 text-xl">🚀 Musk Enterprise Placement Network</i>
+            </div>
+            <div class="hidden md:flex space-x-8 text-sm font-medium tracking-wide items-center">
+                <a href="#portal" class="hover:text-cyan-400 transition">Portal Status</a>
+                <a href="#vacancies" class="hover:text-cyan-400 transition">Divisions</a>
+                <a href="#travel" class="hover:text-cyan-400 transition">Global Deployment</a>
+                <a href="https://instagram.com" target="_blank" class="text-pink-400 hover:text-pink-300 transition flex items-center gap-1.5">
+                    <i class="fa-brands fa-instagram"></i> Verification: @kenrobertson2520
+                </a>
+                <a href="#contact" class="bg-gradient-to-r from-cyan-500 to-blue-600 px-4 py-2 rounded-lg hover:opacity-90 transition shadow-lg shadow-cyan-500/20">Access Portal</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="relative overflow-hidden py-24 lg:py-32 border-b border-slate-800">
+        <div class="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,#1e293b,transparent)]"></div>
+        <div class="max-w-4xl mx-auto text-center px-4 relative z-10">
+            <span class="text-cyan-400 text-sm font-semibold tracking-widest uppercase border border-cyan-500/30 px-3 py-1 rounded-full bg-cyan-500/10">Official Global Career Portal</span>
+            <h1 class="mt-6 text-4xl sm:text-6xl font-extrabold tracking-tight text-white leading-tight">
+                Musk Enterprise <span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">Placement Network</span>
+            </h1>
+            <p class="mt-6 text-lg sm:text-xl text-slate-400 max-w-2xl mx-auto">
+                The centralized internal clearinghouse for strategic staffing, technical assignment mapping, and worldwide contract deployment across the enterprise ecosystem.
+            </p>
+            <div class="mt-10 flex flex-col sm:flex-row justify-center gap-4">
+                <a href="#contact" class="px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-xl font-medium shadow-xl shadow-cyan-500/20 hover:opacity-90 transition text-center">Initialize Candidate Profile</a>
+                <a href="https://instagram.com" target="_blank" class="px-8 py-4 bg-slate-800 border border-slate-700 rounded-xl font-medium hover:bg-slate-700 transition text-center flex items-center justify-center gap-2">
+                    <i class="fa-brands fa-instagram text-pink-400"></i> Direct DM Verification
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Portal Status Section -->
+    <section id="portal" class="py-12 bg-slate-950 border-b border-slate-800">
+        <div class="max-w-6xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+            <div>
+                <p class="text-xs sm:text-sm text-slate-500 uppercase tracking-wider">Portal Status</p>
+                <p class="text-sm font-bold text-emerald-400 mt-1 flex items-center justify-center gap-1.5">
+                    <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span> ACTIVE / OPEN
+                </p>
+            </div>
+            <div>
+                <p class="text-xs sm:text-sm text-slate-500 uppercase tracking-wider">Authorized Divisions</p>
+                <p class="text-sm font-bold text-white mt-1">SpaceX | Tesla | Boring Co</p>
+            </div>
+            <div>
+                <p class="text-xs sm:text-sm text-slate-500 uppercase tracking-wider">Deployment Scope</p>
+                <p class="text-sm font-bold text-cyan-400 mt-1">All Global Regions</p>
+            </div>
+            <div>
+                <p class="text-xs sm:text-sm text-slate-500 uppercase tracking-wider">Lead Placement Officer</p>
+                <p class="text-sm font-bold text-white mt-1">@kenrobertson2520</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Vacancies Section (Musk Companies) -->
+    <section id="vacancies" class="py-20 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+            <h2 class="text-3xl sm:text-4xl font-bold text-white">Authorized Enterprise Segments</h2>
+            <p class="text-slate-400 mt-4">Select an active operational pipeline to register your background within our direct corporate hierarchy.</p>
+        </div>
+        
+        <div class="grid md:grid-cols-3 gap-8">
+            <!-- SpaceX Card -->
+            <div class="bg-slate-800/50 border border-slate-700 p-8 rounded-2xl flex flex-col justify-between hover:border-cyan-500/50 transition group">
+                <div>
+                    <div class="w-12 h-12 rounded-xl bg-black flex items-center justify-center border border-slate-700 mb-6 group-hover:scale-110 transition">
+                        <i class="fa-solid fa-rocket text-cyan-400"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-white">SpaceX Division</h3>
+                    <p class="text-slate-400 text-sm mt-3 leading-relaxed">Direct routing for aerospace engineering personnel, orbital launch technicians, Starlink ground station crew, and global installation squads.</p>
+                </div>
+                <a href="#contact" class="mt-8 text-sm font-semibold text-cyan-400 group-hover:text-cyan-300 flex items-center gap-2">Initiate Clearance <i class="fa-solid fa-arrow-right text-xs"></i></a>
+            </div>
+
+            <!-- Tesla Card -->
+            <div class="bg-slate-800/50 border border-slate-700 p-8 rounded-2xl flex flex-col justify-between hover:border-cyan-500/50 transition group">
+                <div>
+                    <div class="w-12 h-12 rounded-xl bg-red-950/50 flex items-center justify-center border border-red-500/30 mb-6 group-hover:scale-110 transition">
+                        <i class="fa-solid fa-car-side text-red-400"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-white">Tesla Division</h3>
+                    <p class="text-slate-400 text-sm mt-3 leading-relaxed">Automated manufacturing coordination, gigafactory infrastructure scaling, grid battery engineering teams, and supply operations.</p>
+                </div>
+                <a href="#contact" class="mt-8 text-sm font-semibold text-cyan-400 group-hover:text-cyan-300 flex items-center gap-2">Initiate Clearance <i class="fa-solid fa-arrow-right text-xs"></i></a>
+            </div>
+
+            <!-- Boring Co Card -->
+            <div class="bg-slate-800/50 border border-slate-700 p-8 rounded-2xl flex flex-col justify-between hover:border-cyan-500/50 transition group">
+                <div>
+                    <div class="w-12 h-12 rounded-xl bg-amber-950/50 flex items-center justify-center border border-amber-500/30 mb-6 group-hover:scale-110 transition">
+                        <i class="fa-solid fa-trowel-bricks text-amber-400"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-white">The Boring Company Division</h3>
+                    <p class="text-slate-400 text-sm mt-3 leading-relaxed">Tunneling operation mechanics, transit corridor engineering staff, civil planning officers, and subterranean infrastructure supervisors.</p>
+                </div>
+                <a href="#contact" class="mt-8 text-sm font-semibold text-cyan-400 group-hover:text-cyan-300 flex items-center gap-2">Initiate Clearance <i class="fa-solid fa-arrow-right text-xs"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Travel Jobs Section -->
+    <section id="travel" class="py-20 bg-slate-950 border-t border-b border-slate-800">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex flex-col md:flex-row items-center justify-between mb-16 gap-6">
+                <div class="max-w-xl">
+                    <h2 class="text-3xl sm:text-4xl font-bold text-white">Unrestricted Global Deployment</h2>
+                    <p class="text-slate-400 mt-4">Staffing directives are not structurally confined to any single continent. Contracts cover all countries of the world. Selected candidates receive institutional lodging, elite corporate travel routing, per diems, and full global clearance assets.</p>
+                </div>
+                <div class="flex gap-4 border border-slate-800 bg-slate-900 p-1.5 rounded-xl">
+                    <span class="px-4 py-2 bg-slate-800 text-cyan-400 font-medium text-sm rounded-lg shadow">Global Radius</span>
+                    <span class="px-4 py-2 text-slate-400 font-medium text-sm rounded-lg">All Sovereign Territories</span>
+                </div>
+            </div>
+
+            <div class="space-y-4">
+                <!-- Travel Job 1 -->
+                <div class="p-6 bg-slate-900 border border-slate-800 rounded-2xl flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 hover:bg-slate-900/80 transition">
+                    <div>
